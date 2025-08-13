@@ -1,0 +1,14 @@
+v2.1.1
+
+Spread Monitor Bot - Fixed Notification Interval
+
+Features:
+- Real-time spread monitoring
+- Telegram notifications
+- MEXC API integration
+- Configurable thresholds
+- Production-ready deployment
+
+Last updated: December 2024
+Status: Production Ready
+Changes: Fixed notification spam - now truly 10 minute intervals
